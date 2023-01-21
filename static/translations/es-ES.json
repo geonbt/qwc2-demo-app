@@ -6,6 +6,9 @@
         "ExternalLink": "",
         "AttributeTable": "Tabla de Atributos",
         "DxfExport": "Exportar DXF",
+        "Megsis": "Megsis",
+        "Geon": "",
+        "GeonInfo": "",
         "Editing": "Editando",
         "FeatureForm": "Formulario de Elemento",
         "Help": "Ayuda",
@@ -402,6 +405,7 @@
       "fullscreendisable": "Descativar pantalla completa",
       "fullscreenenable": "Activar pantalla completa",
       "home": "Mostrar todo el mapa",
+      "info": "",
       "zoomin": "Acercarse",
       "zoomout": "Alejarse"
     },

@@ -6,6 +6,9 @@
         "ExternalLink": "",
         "AttributeTable": "",
         "DxfExport": "DXF Export",
+        "Megsis": "Megsis",
+        "Geon": "",
+        "GeonInfo": "",
         "Editing": "Úpravy",
         "FeatureForm": "",
         "Help": "Nápověda",
@@ -402,6 +405,7 @@
       "fullscreendisable": "",
       "fullscreenenable": "",
       "home": "Zobrazit celou mapu",
+      "info": "",
       "zoomin": "Přiblížit",
       "zoomout": "Oddálit"
     },

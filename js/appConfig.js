@@ -59,6 +59,8 @@ import SettingsPlugin from 'qwc2/plugins/Settings';
 import {customAttributeCalculator, customExporters} from './IdentifyExtensions';
 
 import defaultLocaleData from '../static/translations/en-US.json';
+import GeonButtonPlugin from 'qwc2/plugins/GeonButton';
+import GeonInfoPlugin from 'qwc2/plugins/GeonInfo';
 
 export default {
     defaultLocaleData: defaultLocaleData,
@@ -79,6 +81,8 @@ export default {
                 SnappingSupport: SnappingSupport
             }),
             HomeButtonPlugin: HomeButtonPlugin,
+            GeonButtonPlugin: GeonButtonPlugin,
+            GeonInfoPlugin: GeonInfoPlugin,
             LocateButtonPlugin: LocateButtonPlugin,
             ZoomInPlugin: ZoomInPlugin,
             ZoomOutPlugin: ZoomOutPlugin,

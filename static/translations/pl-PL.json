@@ -1,11 +1,14 @@
 {
-  "locale": "en-US",
+  "locale": "pl-PL",
   "messages": {
     "appmenu": {
       "items": {
         "ExternalLink": "",
         "AttributeTable": "",
         "DxfExport": "Eksport DXF",
+        "Megsis": "Megsis",
+        "Geon": "",
+        "GeonInfo": "",
         "Editing": "Edycja",
         "FeatureForm": "",
         "Help": "Pomoc",
@@ -402,6 +405,7 @@
       "fullscreendisable": "",
       "fullscreenenable": "",
       "home": "Pokaż całą mapę",
+      "info": "",
       "zoomin": "Przybliż",
       "zoomout": "Oddal"
     },

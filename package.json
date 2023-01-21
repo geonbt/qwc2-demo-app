@@ -36,6 +36,9 @@
         "release": "node -e \"process.exit(require('os').platform() === 'win32' ? 0 : 1)\" && qwc2\\scripts\\package-commands.bat release || ./qwc2/scripts/package-commands.sh release"
     },
     "dependencies": {
-        "js-yaml": "^4.1.0"
+        "bootstrap": "^5.2.3",
+        "js-yaml": "^4.1.0",
+        "react-bootstrap": "^2.7.0",
+        "react-image-gallery": "^1.2.11"
     }
 }

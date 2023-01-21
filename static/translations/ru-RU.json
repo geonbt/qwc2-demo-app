@@ -6,6 +6,9 @@
         "ExternalLink": "",
         "AttributeTable": "",
         "DxfExport": "Экспорт в DXF",
+        "Megsis": "Megsis",
+        "Geon": "",
+        "GeonInfo": "",
         "Editing": "Правка",
         "FeatureForm": "",
         "Help": "Помощь",
@@ -402,6 +405,7 @@
       "fullscreendisable": "",
       "fullscreenenable": "",
       "home": "Показать всю карту",
+      "info": "",
       "zoomin": "Увеличить",
       "zoomout": "Уменьшить"
     },

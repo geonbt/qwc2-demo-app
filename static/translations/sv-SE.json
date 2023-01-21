@@ -6,6 +6,9 @@
         "ExternalLink": "",
         "AttributeTable": "",
         "DxfExport": "DXF Export",
+        "Megsis": "Megsis",
+        "Geon": "",
+        "GeonInfo": "",
         "Editing": "Redigera",
         "FeatureForm": "",
         "Help": "Hjälp",
@@ -402,6 +405,7 @@
       "fullscreendisable": "",
       "fullscreenenable": "",
       "home": "Visa hela kartan",
+      "info": "",
       "zoomin": "Zooma in",
       "zoomout": "Zooma ut"
     },

@@ -6,6 +6,9 @@
         "ExternalLink": "External Link",
         "AttributeTable": "Attribute Table",
         "DxfExport": "DXF Export",
+        "Megsis": "Megsis",
+        "Geon": "",
+        "GeonInfo": "",
         "Editing": "Editing",
         "FeatureForm": "Feature Form",
         "Help": "Help",
@@ -149,7 +152,7 @@
       "loading": "Calculating height profile..."
     },
     "identify": {
-      "clipboard": "Copy to clipboard",
+      "clipboard": "",
       "export": "Export",
       "exportformat": "Export format:",
       "featureReport": "Feature report",
@@ -178,8 +181,8 @@
     "infotool": {
       "clickhelpPoint": "Click a location to identify in the map...",
       "clickhelpPolygon": "Draw a polygon around the features to identify...",
-      "clickhelpRadius": "Set a radius and click a location to identify features around the point...",
-      "radius": "Radius"
+      "clickhelpRadius": "",
+      "radius": ""
     },
     "layercatalog": {
       "windowtitle": "Layer catalog"
@@ -354,11 +357,11 @@
       "animationinterval": "Animation interval",
       "classify": "Classification attribute",
       "classifynone": "None",
-      "displayfeatures": "Timeline with features",
-      "displaylayers": "Timeline with layers",
-      "displayminimal": "Timeline only",
+      "displayfeatures": "",
+      "displaylayers": "",
+      "displayminimal": "",
       "endtime": "End",
-      "future": "Future",
+      "future": "",
       "group": "Grouping attribute",
       "groupnone": "None",
       "home": "Reset timeline",
@@ -366,8 +369,8 @@
       "loop": "Loop",
       "markers": "Markers",
       "notemporaldata": "No temporal layers are visible in the map.",
-      "now": "Now",
-      "past": "Past",
+      "now": "",
+      "past": "",
       "play": "Play",
       "playrev": "Play backwards",
       "rewind": "Rewind",
@@ -379,7 +382,7 @@
       "timeline": "Timeline",
       "timeline_fixed": "Fixed",
       "timeline_infinite": "Infinite",
-      "timelinedisplay": "Display",
+      "timelinedisplay": "",
       "timelinescale": "Timescale (non-linearity)",
       "title": "Time manager",
       "toggle": "Temporal navigation",
@@ -402,6 +405,7 @@
       "fullscreendisable": "Disable full screen mode",
       "fullscreenenable": "Enable full screen mode",
       "home": "Show entire map",
+      "info": "",
       "zoomin": "Zoom in",
       "zoomout": "Zoom out"
     },

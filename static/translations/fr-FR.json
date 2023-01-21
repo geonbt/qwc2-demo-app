@@ -6,6 +6,9 @@
         "ExternalLink": "",
         "AttributeTable": "Table d'attributs",
         "DxfExport": "Export DXF",
+        "Megsis": "Megsis",
+        "Geon": "",
+        "GeonInfo": "",
         "Editing": "Editer",
         "FeatureForm": "Formulaire d'objet",
         "Help": "Aide",
@@ -149,7 +152,7 @@
       "loading": "Calcul du profil de hauteur..."
     },
     "identify": {
-      "clipboard": "Copier dans le presse-papiers",
+      "clipboard": "",
       "export": "Exporter",
       "exportformat": "Format d'export:",
       "featureReport": "Données de l'objet",
@@ -178,8 +181,8 @@
     "infotool": {
       "clickhelpPoint": "Cliquez sur un emplacement pour l'identifier sur la carte...",
       "clickhelpPolygon": "Dessiner un polygone pour identifier les objets",
-      "clickhelpRadius": "Configurez un rayon et cliquez sur un emplacement pour identifier les objets autour de ce point",
-      "radius": "Rayon"
+      "clickhelpRadius": "",
+      "radius": ""
     },
     "layercatalog": {
       "windowtitle": "Catalogue de couches"
@@ -354,11 +357,11 @@
       "animationinterval": "Intervalle d'animation",
       "classify": "Classement par attribut",
       "classifynone": "Aucun",
-      "displayfeatures": "Chronologie avec objets",
-      "displaylayers": "Chronologie avec couches",
-      "displayminimal": "Chronologie uniquement",
+      "displayfeatures": "",
+      "displaylayers": "",
+      "displayminimal": "",
       "endtime": "Fin",
-      "future": "Future",
+      "future": "",
       "group": "Attribut de regroupement",
       "groupnone": "Aucun",
       "home": "Réinitialiser",
@@ -366,8 +369,8 @@
       "loop": "Répéter",
       "markers": "Marqueurs",
       "notemporaldata": "Aucune couche temporelle n'est visible sur la carte.",
-      "now": "Maintenant",
-      "past": "Passé",
+      "now": "",
+      "past": "",
       "play": "Jouer",
       "playrev": "Jouer en sens inverse",
       "rewind": "Rembobiner",
@@ -379,7 +382,7 @@
       "timeline": "Chronologie",
       "timeline_fixed": "Fixe",
       "timeline_infinite": "Infinite",
-      "timelinedisplay": "Affichage",
+      "timelinedisplay": "",
       "timelinescale": "Èchelle de temps (non-linéarité)",
       "title": "Ligne du temps",
       "toggle": "Activer le contrôle du temps",
@@ -402,6 +405,7 @@
       "fullscreendisable": "Désactiver le mode plein écran",
       "fullscreenenable": "Activer le mode plein écran",
       "home": "Afficher toute la carte",
+      "info": "",
       "zoomin": "Zoomer",
       "zoomout": "Dézoomer"
     },

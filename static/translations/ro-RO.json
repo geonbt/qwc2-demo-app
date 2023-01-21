@@ -6,6 +6,9 @@
         "ExternalLink": "Link extern",
         "AttributeTable": "Tabela de atribute",
         "DxfExport": "Export DXF",
+        "Megsis": "Megsis",
+        "Geon": "",
+        "GeonInfo": "",
         "Editing": "Editare",
         "FeatureForm": "",
         "Help": "Ajutor",
@@ -402,6 +405,7 @@
       "fullscreendisable": "Dezactivează fullscreen",
       "fullscreenenable": "Activează fullscreen",
       "home": "Arată toată harta",
+      "info": "",
       "zoomin": "Mărire",
       "zoomout": "Micșorare"
     },
